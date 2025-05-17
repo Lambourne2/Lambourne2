@@ -12,7 +12,7 @@ I’m a Computer Science student at the University of Utah and ML bootcamp parti
 - 🎮 **Esports:** 4,000+ hours in Rocket League • BTRFLY tournament organizer  
 - 🎵 **Music & Tech:** Sound design, guitar, track production  
 - ☕ **Open to:** Collaborations, code reviews, coffee-powered brainstorming  
-- 📫 **Reach me:** [lambourneofficialmusic@gmail.com](mailto:lambourneofficialmusic@gmail.com)  
+- 📫 **Reach me:** [lambourne.dev@gmail.com](mailto:lambourne.dev@gmail.com)  
 
 <br>
 
@@ -25,7 +25,7 @@ I’m a Computer Science student at the University of Utah and ML bootcamp parti
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:lambourneofficialmusic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="mailto:lambourne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/peyton-lambourne-266060305/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/lambournnne"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/lambournnne"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
